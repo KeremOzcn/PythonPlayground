@@ -60,5 +60,8 @@ For detailed contribution guidelines, see CONTRIBUTING.md.
 If you have any questions or feedback, feel free to reach out:
 
 Email: keremozcan1603@gmail.com
-##🌟 Acknowledgments
+
+---
+
+## 🌟 Acknowledgments
 Thanks for visiting this repository! I hope it helps you on your Python learning journey. Happy coding! 😊
